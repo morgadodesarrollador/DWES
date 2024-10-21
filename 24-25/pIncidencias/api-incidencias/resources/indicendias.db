@@ -1,0 +1,50 @@
+Table Departamento {
+  codDpto string [primary key]
+  nombre string
+  edificio string
+  created_at timestamp 
+}
+
+Table Profesores {
+  ideaprof string [primary key]
+  codDpto string 
+  nombre varchar
+  role varchar
+  created_at timestamp
+}
+
+Table Aulas {
+  idaula string [primary key]
+  nombre string [not null, unique]
+  edificio string
+  descripcion varchar2
+  created_at timestamp 
+}
+
+Table Aparatos {
+  codAp string [primary key]
+  nombre string
+  tipo string
+  estado string
+  idaula string
+  created_at timestamp
+}
+
+Table Incidencias {
+  codInd string [primary key]
+  ideaprof string
+  idaula string
+  codAp string
+  fecha date
+  descripcion varchar2
+  prioirdad string
+}
+// 1 Departamento tiene muchos Profesores
+Ref: Departamento.codDpto > Profesores.codDpto // many-to-one
+// 1 Aula tiene muchos
+Ref: Aulas.idaula > Aparatos.idaula
+// Ref: usuarios.id < follows.following_user_id
+Ref: Aparatos.codAp > Incidencias.codAp
+Ref: Profesores.ideaprof > Incidencias.ideaprof
+
+// Ref: usuarios.id < follows.followed_user_id

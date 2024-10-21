@@ -1,0 +1,26 @@
+[
+    {
+      "nif": "12345F",
+      "nombre": "Jose Antonio Morgado",
+      "modulo": "Desarrollo Web en Entorno de Servidor",
+      "email": "morgado@gmail.com"
+    },
+    {
+        "nif": "222222F",
+        "nombre": "Fran Matias",
+        "modulo": "Desarrollo Web en Entorno de Cliente",
+        "email": "fran@gmail.com"
+    },
+    {
+        "nif": "33333G",
+        "nombre": "Ana María Sanchez",
+        "modulo": "Diseño de Interfaces",
+        "email": "anamaria@gmail.com"
+    },
+    {
+        "nif": "44444H",
+        "nombre": "María Gutierrez",
+        "modulo": "Despliege de Aplicaciones Web",
+        "email": "marta@gmail.com"
+    }
+]
