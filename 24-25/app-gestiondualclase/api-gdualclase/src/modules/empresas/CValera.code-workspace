@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../.."
+		},
+		{
+			"path": "../../../../../../../Modulos/IAW/app-libreria"
+		},
+		{
+			"path": "../../../../../../../Modulos/IAW/api-libreria"
+		}
+	],
+	"settings": {}
+}

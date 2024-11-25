@@ -1,0 +1,92 @@
+[
+    {
+      "nif": "12345678A",
+      "nombre": "Laura Martínez",
+      "puesto": "Jefe de Departamento",
+      "telefono": "+34 600 111 222",
+      "correo": "laura.martinez@escuela.com",
+      "ciclo": "ASIR",
+      "curso": "1"
+    },
+    {
+      "nif": "23456789B",
+      "nombre": "Pedro Sánchez",
+      "puesto": "Coordinador Dual",
+      "telefono": "+34 600 222 333",
+      "correo": "pedro.sanchez@escuela.com",
+      "ciclo": "DAW",
+      "curso": "2"
+    },
+    {
+      "nif": "34567890C",
+      "nombre": "Ana López",
+      "puesto": "Profesor",
+      "telefono": "+34 600 333 444",
+      "correo": "ana.lopez@escuela.com",
+      "ciclo": "SMR",
+      "curso": "1"
+    },
+    {
+      "nif": "45678901D",
+      "nombre": "Juan Pérez",
+      "puesto": "Jefe de Departamento",
+      "telefono": "+34 600 444 555",
+      "correo": "juan.perez@escuela.com",
+      "ciclo": "PCPI",
+      "curso": "2"
+    },
+    {
+      "nif": "56789012E",
+      "nombre": "Lucía Gómez",
+      "puesto": "Coordinador Dual",
+      "telefono": "+34 600 555 666",
+      "correo": "lucia.gomez@escuela.com",
+      "ciclo": "ASIR",
+      "curso": "1"
+    },
+    {
+      "nif": "67890123F",
+      "nombre": "Carlos Fernández",
+      "puesto": "Profesor",
+      "telefono": "+34 600 666 777",
+      "correo": "carlos.fernandez@escuela.com",
+      "ciclo": "DAW",
+      "curso": "2"
+    },
+    {
+      "nif": "78901234G",
+      "nombre": "Marta Rodríguez",
+      "puesto": "Jefe de Departamento",
+      "telefono": "+34 600 777 888",
+      "correo": "marta.rodriguez@escuela.com",
+      "ciclo": "SMR",
+      "curso": "1"
+    },
+    {
+      "nif": "89012345H",
+      "nombre": "José Ruiz",
+      "puesto": "Coordinador Dual",
+      "telefono": "+34 600 888 999",
+      "correo": "jose.ruiz@escuela.com",
+      "ciclo": "PCPI",
+      "curso": "2"
+    },
+    {
+      "nif": "90123456I",
+      "nombre": "Elena Morales",
+      "puesto": "Profesor",
+      "telefono": "+34 600 999 000",
+      "correo": "elena.morales@escuela.com",
+      "ciclo": "ASIR",
+      "curso": "1"
+    },
+    {
+      "nif": "01234567J",
+      "nombre": "Antonio Gil",
+      "puesto": "Jefe de Departamento",
+      "telefono": "+34 600 000 111",
+      "correo": "antonio.gil@escuela.com",
+      "ciclo": "DAW",
+      "curso": "2"
+    }
+  ]

@@ -1,0 +1,42 @@
+[
+    {
+      "nif": "12345678A",
+      "nombre": "Carlos García",
+      "puesto": "Gerente",
+      "telefono": "+34 600 123 456",
+      "correo": "carlos.garcia@empresa.com",
+      "cif": "B87654321"
+    },
+    {
+      "nif": "23456789B",
+      "nombre": "Lucía Martínez",
+      "puesto": "Directora de Marketing",
+      "telefono": "+34 600 234 567",
+      "correo": "lucia.martinez@empresa.com",
+      "cif": "A12345678"
+    },
+    {
+      "nif": "34567890C",
+      "nombre": "Miguel Sánchez",
+      "puesto": "Responsable de Ventas",
+      "telefono": "+34 600 345 678",
+      "correo": "miguel.sanchez@empresa.com",
+      "cif": "C23456789"
+    },
+    {
+      "nif": "45678901D",
+      "nombre": "Elena Ruiz",
+      "puesto": "Administrativa",
+      "telefono": "+34 600 456 789",
+      "correo": "elena.ruiz@empresa.com",
+      "cif": "D34567890"
+    },
+    {
+      "nif": "56789012E",
+      "nombre": "Javier López",
+      "puesto": "Técnico de Soporte",
+      "telefono": "+34 600 567 890",
+      "correo": "javier.lopez@empresa.com",
+      "cif": "E45678901"
+    }
+  ]

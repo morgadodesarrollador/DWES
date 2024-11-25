@@ -1,0 +1,50 @@
+[
+    {
+      "cif": "A12345678",
+      "nombre": "Empresa Ejemplo S.A.",
+      "telefono": "+34 600 123 456",
+      "localidad": "Madrid",
+      "correo": "juan.perez@empresa.com",
+      "sector": "Tecnologica"
+    },
+    {
+      "cif": "B87654321",
+      "nombre": "Soluciones Tecnológicas S.L.",
+      "telefono": "+34 600 987 654",
+      "localidad": "Barcelona",
+      "correo": "maria.garcia@soluciones.com",
+      "sector": "Tecnologica"
+    },
+    {
+      "cif": "C23456789",
+      "nombre": "Distribuciones Comerciales S.A.",
+      "telefono": "+34 600 765 432",
+      "localidad": "Valencia",
+      "correo": "pedro.lopez@distribuciones.com",
+      "sector": "Logistica"
+    },
+    {
+      "cif": "D34567890",
+      "nombre": "Inversiones Globales S.L.",
+      "telefono": "+34 600 111 222",
+      "localidad": "Sevilla",
+      "correo": "ana.fernandez@inversiones.com",
+      "sector": "Tecnologica"
+    },
+    {
+      "cif": "E45678901",
+      "nombre": "Consultoría Integral S.A.",
+      "telefono": "+34 600 333 444",
+      "localidad": "Bilbao",
+      "correo": "carlos.martin@consultoria.com",
+      "sector": "Tecnologica"
+    },
+    {
+      "cif": "X4567238401",
+      "nombre": "DXC Sistemas",
+      "telefono": "+34 600 333 444",
+      "localidad": "Almería",
+      "correo": "evaristo.martin@consultoria.com",
+      "sector": "Tecnologica"
+    }
+  ]

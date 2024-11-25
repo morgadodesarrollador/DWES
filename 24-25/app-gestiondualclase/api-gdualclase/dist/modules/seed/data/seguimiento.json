@@ -1,0 +1,182 @@
+[
+    {
+        "fecha": "2024-10-10",
+        "tipo_contacto": "Reunión",
+        "notas": "Revisión de temario y asignación de actividades.",
+        "acuerdos": "Ajuste del contenido del segundo trimestre.",
+        "cif": "A12345678",
+        "nif_profesor": "12345678A",
+        "nif_contacto": "12345678A"
+    },
+    {
+        "fecha": "2024-10-12",
+        "tipo_contacto": "Llamada",
+        "notas": "Confirmación de prácticas con empresas colaboradoras.",
+        "acuerdos": "Enviar listado de empresas a los alumnos.",
+        "cif": "C23456789",
+        "nif_profesor": "23456789B",
+        "nif_contacto": "23456789B"
+    },
+    {
+        "fecha": "2024-09-25",
+        "tipo_contacto": "Correo electrónico",
+        "notas": "Actualización de notas de evaluación.",
+        "acuerdos": "Establecer fecha límite de entrega.",
+        "cif": "D34567890",
+        "nif_profesor": "34567890C",
+        "nif_contacto": "34567890C"
+    },
+    {
+        "fecha": "2024-09-15",
+        "tipo_contacto": "Reunión",
+        "notas": "Planeación anual de proyectos de formación.",
+        "acuerdos": "Incluir nuevas actividades en el programa.",
+        "cif": "E45678901",
+        "nif_profesor": "45678901D",
+        "nif_contacto": "45678901D"
+    },
+    {
+        "fecha": "2024-08-30",
+        "tipo_contacto": "Correo electrónico",
+        "notas": "Confirmación de horarios de clase.",
+        "acuerdos": "Enviar horario final a todos los profesores.",
+        "cif": "B87654321",
+        "nif_profesor": "56789012E",
+        "nif_contacto": "56789012E"
+    },
+    {
+        "fecha": "2024-09-01",
+        "tipo_contacto": "Llamada",
+        "notas": "Coordinar tutorías con estudiantes.",
+        "acuerdos": "Establecer calendario de tutorías.",
+        "cif": "A12345678",
+        "nif_profesor": "67890123F",
+        "nif_contacto": "12345678A"
+    },
+    {
+        "fecha": "2024-10-01",
+        "tipo_contacto": "Reunión",
+        "notas": "Revisión del desempeño del departamento.",
+        "acuerdos": "Incluir capacitación adicional para el equipo.",
+        "cif": "C23456789",
+        "nif_profesor": "78901234G",
+        "nif_contacto": "23456789B"
+    },
+    {
+        "fecha": "2024-09-10",
+        "tipo_contacto": "Correo electrónico",
+        "notas": "Distribución de materiales de clase.",
+        "acuerdos": "Entregar materiales antes del inicio de clases.",
+        "cif": "D34567890",
+        "nif_profesor": "89012345H",
+        "nif_contacto": "34567890C"
+    },
+    {
+        "fecha": "2024-08-28",
+        "tipo_contacto": "Llamada",
+        "notas": "Ajustes en el plan de estudios.",
+        "acuerdos": "Revisar y aprobar los cambios antes de octubre.",
+        "cif": "E45678901",
+        "nif_profesor": "90123456I",
+        "nif_contacto": "45678901D"
+    },
+    {
+        "fecha": "2024-07-20",
+        "tipo_contacto": "Reunión",
+        "notas": "Evaluación del semestre.",
+        "acuerdos": "Compartir el informe final con el equipo.",
+        "cif": "B87654321",
+        "nif_profesor": "01234567J",
+        "nif_contacto": "56789012E"
+    },
+    {
+        "fecha": "2024-10-05",
+        "tipo_contacto": "Reunión",
+        "notas": "Definición de objetivos del curso.",
+        "acuerdos": "Enviar lista de objetivos a los estudiantes.",
+        "cif": "A12345678",
+        "nif_profesor": "12345678A",
+        "nif_contacto": "12345678A"
+    },
+    {
+        "fecha": "2024-09-22",
+        "tipo_contacto": "Correo electrónico",
+        "notas": "Actualización de recursos en la plataforma.",
+        "acuerdos": "Asignar acceso a los nuevos recursos.",
+        "cif": "C23456789",
+        "nif_profesor": "23456789B",
+        "nif_contacto": "23456789B"
+    },
+    {
+        "fecha": "2024-10-11",
+        "tipo_contacto": "Llamada",
+        "notas": "Confirmación de materiales de estudio.",
+        "acuerdos": "Enviar guía de estudios a los alumnos.",
+        "cif": "D34567890",
+        "nif_profesor": "34567890C",
+        "nif_contacto": "34567890C"
+    },
+    {
+        "fecha": "2024-08-24",
+        "tipo_contacto": "Reunión",
+        "notas": "Planificación del curso.",
+        "acuerdos": "Definir fechas de evaluaciones.",
+        "cif": "E45678901",
+        "nif_profesor": "45678901D",
+        "nif_contacto": "45678901D"
+    },
+    {
+        "fecha": "2024-09-29",
+        "tipo_contacto": "Correo electrónico",
+        "notas": "Actualización del temario.",
+        "acuerdos": "Revisar y aprobar modificaciones.",
+        "cif": "B87654321",
+        "nif_profesor": "56789012E",
+        "nif_contacto": "56789012E"
+    },
+    {
+        "fecha": "2024-07-15",
+        "tipo_contacto": "Reunión",
+        "notas": "Evaluación de actividades extracurriculares.",
+        "acuerdos": "Incluir más actividades interactivas.",
+        "cif": "A12345678",
+        "nif_profesor": "67890123F",
+        "nif_contacto": "12345678A"
+    },
+    {
+        "fecha": "2024-10-20",
+        "tipo_contacto": "Llamada",
+        "notas": "Confirmación de horarios de tutoría.",
+        "acuerdos": "Informar a los alumnos sobre el nuevo horario.",
+        "cif": "C23456789",
+        "nif_profesor": "78901234G",
+        "nif_contacto": "23456789B"
+    },
+    {
+        "fecha": "2024-09-17",
+        "tipo_contacto": "Correo electrónico",
+        "notas": "Recordatorio de entrega de tareas.",
+        "acuerdos": "Enviar notificación de recordatorio.",
+        "cif": "D34567890",
+        "nif_profesor": "89012345H",
+        "nif_contacto": "34567890C"
+    },
+    {
+        "fecha": "2024-08-03",
+        "tipo_contacto": "Reunión",
+        "notas": "Revisión del programa anual.",
+        "acuerdos": "Actualizar el programa de actividades.",
+        "cif": "E45678901",
+        "nif_profesor": "90123456I",
+        "nif_contacto": "45678901D"
+    },
+    {
+        "fecha": "2024-10-02",
+        "tipo_contacto": "Correo electrónico",
+        "notas": "Entrega de notas de exámenes.",
+        "acuerdos": "Informar a los alumnos de sus calificaciones.",
+        "cif": "B87654321",
+        "nif_profesor": "01234567J",
+        "nif_contacto": "56789012E"
+    }
+]
